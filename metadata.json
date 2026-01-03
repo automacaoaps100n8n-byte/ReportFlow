@@ -1,0 +1,7 @@
+{
+  "name": "Report Flow ",
+  "description": "A comprehensive professional tool for creating custom forms, collecting client data, and generating high-quality modular PDF reports with a block-based editor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
